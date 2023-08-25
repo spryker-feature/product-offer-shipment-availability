@@ -1,0 +1,19 @@
+{
+    "name": "spryker-feature/product-offer-shipment-availability",
+    "description": "Product Offer Shipment Availability [feature]",
+    "type": "metapackage",
+    "license": "proprietary",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=8.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "202307.x-dev"
+        }
+    },
+    "suggest": {
+        "spryker-feature/product-offer-shipment": "Recommended feature dependency."
+    }
+}
