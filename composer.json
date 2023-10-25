@@ -7,7 +7,7 @@
     "prefer-stable": true,
     "require": {
         "php": ">=8.0",
-        "spryker/product-offer-shipment-type-availability": "^0.1.0"
+        "spryker/product-offer-shipment-type-availability": "^0.2.0"
     },
     "extra": {
         "branch-alias": {
