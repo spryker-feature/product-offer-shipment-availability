@@ -1,6 +1,6 @@
 # Spryker Feature: Product Offer Shipment Availability
 
-
+The Product Offer Shipment Availability feature enhances the Click & Collect experience by displaying the availability of product offers at various service points based on selected Shipment Type.
 
 ## Installation
 
